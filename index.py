@@ -2,6 +2,6 @@ from manterclienteUi import UI
 
 class IndexUI:
     def main():
-        UI.main
+        UI.main()
         
 IndexUI.main()
